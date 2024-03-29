@@ -19,6 +19,7 @@ To view the live Demo [Click Here](https://iamisaackn.github.io/SportsHub%20(E-C
 - Blog Page.
 - About Page.
 - Contact Us.
+- Sign Up page.
 - Ecommerce Shopping Cart.
 
 ## Vivid Description
@@ -29,4 +30,5 @@ To view the live Demo [Click Here](https://iamisaackn.github.io/SportsHub%20(E-C
 5. [Blog Page](./blog.md)
 6. [Shop Page](./shop.md)
 7. [Cart Page](./cart.md)
+8. [Sign Up Page](./signup.md)
   
